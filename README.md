@@ -11,9 +11,9 @@ npm install veya yarn
 - 'redux-persist'
 - `axios`
 - `react-router-dom`
-- 'Formik'
-- 'Yup'
-- 'Toastify'
+- `Formik`
+- `Yup`
+- `toastify`
 - `@mui/material-ui`
 - `@emotion/react`
 - `@emotion/styled`
