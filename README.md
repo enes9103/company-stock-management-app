@@ -8,7 +8,7 @@ npm install veya yarn
 
 - `@reduxjs/toolkit`
 - `react-redux`
-- 'redux-persist'
+- `redux-persist`
 - `axios`
 - `react-router-dom`
 - `Formik`
