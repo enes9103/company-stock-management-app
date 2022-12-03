@@ -1,3 +1,5 @@
+# Redux Toolkit Ornegi
+
 ## `Kurulum`
 
 ```
@@ -8,13 +10,8 @@ npm install veya yarn
 
 - `@reduxjs/toolkit`
 - `react-redux`
-- `redux-persist`
 - `axios`
 - `react-router-dom`
-- `Formik`
-- `Yup`
-- `toastify`
 - `@mui/material-ui`
 - `@emotion/react`
 - `@emotion/styled`
-
